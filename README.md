@@ -4,8 +4,9 @@
 
 <!-- Imagen animada centrada -->
 <p align="center">
-  <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+ <img width="2560" height="1440" alt="banner" src="https://github.com/user-attachments/assets/8fabf683-0f6b-4a6b-a36e-285269f7a2dc" />
 </p>
+
 
 <!-- Texto animado centrado -->
 <p align="center">
