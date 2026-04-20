@@ -37,7 +37,4 @@
     <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'/>
   </a>
   &nbsp;&nbsp;
-  <a href='https://x.com/AdonaiRua70578' target="_blank">
-    <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg'/>
-  </a>
-</p>
+ 
